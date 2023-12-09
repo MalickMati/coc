@@ -19,7 +19,7 @@ let membersArray = [
     ['22','Mati ur Rehman', 'Member', '51', '53', '21', 'NA', 'Selected', 135, '../Images/town hall/th12.webp'],
     ['22','Zombie Mati', 'Member', '51', '56', '23', 'NA', 'Selected', 133, '../Images/town hall/th12.webp']
     ['22','Ali', 'Member', '42', '56', '23', 'NA', 'Selected', 145, '../Images/town hall/th12.webp'],
-    ['22','Legend Op', 'Member', '50', '51', '20', 'NA', 'Selected', 127, '../Images/town hall/th12.webp'],
+    ['22','Legend Op', 'Member', '50', '51', '20', 'NA', 'Selected', 127, '../Images/town hall/th12.webp']
   ];
   membersArray.sort(function (a, b) {
     return b[0].localeCompare(a[0]);
