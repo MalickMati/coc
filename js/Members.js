@@ -58,7 +58,7 @@ let membersArray = [
       cwlstatus.innerHTML = '<div><span class="bold">CWL: </span><span>'+ sel +'</span></div>';
 
       var xplvl = document.createElement('div');
-      xplvl.innerHTML = '<div><span class="bold">XP: </span><a href = "https://link.clashofclans.com/en?action=OpenPlayerProfile&tag='+ membersArray[i][8] +'">#'+ membersArray[i][8] +'</a></div>';
+      xplvl.innerHTML = '<div><span class="bold">TAG: </span><a href = "https://link.clashofclans.com/en?action=OpenPlayerProfile&tag='+ membersArray[i][8] +'">#'+ membersArray[i][8] +'</a></div>';
 
       card.appendChild(image);
       card.appendChild(name);
