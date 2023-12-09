@@ -17,7 +17,7 @@ let membersArray = [
     ['23','Hero', 'Co-Leader', '60', '65', '35', '6', 'Selected', 163, '../Images/town hall/th13.webp'],
     ['22','Sufyan', 'Co-Leader', '46', '53', '30', 'NA', 'Selected', 176, '../Images/town hall/th12.webp'],
     ['22','Mati ur Rehman', 'Member', '51', '53', '21', 'NA', 'Selected', 135, '../Images/town hall/th12.webp'],
-    ['22','Zombie Mati', 'Member', '51', '56', '23', 'NA', 'Selected', 133, '../Images/town hall/th12.webp']
+    ['22','Zombie Mati', 'Member', '51', '56', '23', 'NA', 'Selected', 133, '../Images/town hall/th12.webp'],
     ['22','Ali', 'Member', '42', '56', '23', 'NA', 'Selected', 145, '../Images/town hall/th12.webp'],
     ['22','Legend Op', 'Member', '50', '51', '20', 'NA', 'Selected', 127, '../Images/town hall/th12.webp']
   ];
